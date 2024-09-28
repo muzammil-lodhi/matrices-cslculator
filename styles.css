@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+    
+}
+
+#matrix-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.matrix {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    margin: 5px 0;
+}
+
+input {
+    width: 50px;
+    text-align: center;
+}
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+#add{
+    background-color: rgb(96, 96, 172);
+}
+#subtract{
+  background-color:   rgb(96, 96, 172);
+}
